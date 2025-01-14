@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Leonardo\\Music\\Csharp\\Ex004\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5C8C48C-B722-490E-B06B-EC76BA5F1D26}|Ex004\\Ex004.csproj|c:\\users\\leonardo\\music\\csharp\\ex004\\ex004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C8C48C-B722-490E-B06B-EC76BA5F1D26}|Ex004\\Ex004.csproj|solutionrelative:ex004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C8C48C-B722-490E-B06B-EC76BA5F1D26}|Ex004\\Ex004.csproj|c:\\users\\leonardo\\music\\csharp\\ex004\\ex004\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C8C48C-B722-490E-B06B-EC76BA5F1D26}|Ex004\\Ex004.csproj|solutionrelative:ex004\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5C8C48C-B722-490E-B06B-EC76BA5F1D26}|Ex004\\Ex004.csproj|c:\\users\\leonardo\\music\\csharp\\ex004\\ex004\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5C8C48C-B722-490E-B06B-EC76BA5F1D26}|Ex004\\Ex004.csproj|solutionrelative:ex004\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5C8C48C-B722-490E-B06B-EC76BA5F1D26}|Ex004\\Ex004.csproj|c:\\users\\leonardo\\music\\csharp\\ex004\\ex004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5C8C48C-B722-490E-B06B-EC76BA5F1D26}|Ex004\\Ex004.csproj|solutionrelative:ex004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5C8C48C-B722-490E-B06B-EC76BA5F1D26}|Ex004\\Ex004.csproj|c:\\users\\leonardo\\music\\csharp\\ex004\\ex004\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C8C48C-B722-490E-B06B-EC76BA5F1D26}|Ex004\\Ex004.csproj|solutionrelative:ex004\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C8C48C-B722-490E-B06B-EC76BA5F1D26}|Ex004\\Ex004.csproj|c:\\users\\leonardo\\music\\csharp\\ex004\\ex004\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C8C48C-B722-490E-B06B-EC76BA5F1D26}|Ex004\\Ex004.csproj|solutionrelative:ex004\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 197,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +38,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "banda.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Ex004\\Ex004\\banda.cs",
+              "RelativeDocumentMoniker": "Ex004\\banda.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Ex004\\Ex004\\banda.cs",
+              "RelativeToolTip": "Ex004\\banda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:17:13.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "musica.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Ex004\\Ex004\\musica.cs",
+              "RelativeDocumentMoniker": "Ex004\\musica.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Ex004\\Ex004\\musica.cs*",
+              "RelativeToolTip": "Ex004\\musica.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:38:33.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "genero.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Ex004\\Ex004\\genero.cs",
+              "RelativeDocumentMoniker": "Ex004\\genero.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Ex004\\Ex004\\genero.cs",
+              "RelativeToolTip": "Ex004\\genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:38:17.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Ex004\\Ex004\\Program.cs",
               "RelativeDocumentMoniker": "Ex004\\Program.cs",
-              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Ex004\\Ex004\\Program.cs",
-              "RelativeToolTip": "Ex004\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Ex004\\Ex004\\Program.cs*",
+              "RelativeToolTip": "Ex004\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T12:58:51.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Album.cs",
               "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Ex004\\Ex004\\Album.cs",
               "RelativeDocumentMoniker": "Ex004\\Album.cs",
               "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Ex004\\Ex004\\Album.cs",
               "RelativeToolTip": "Ex004\\Album.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T12:54:41.279Z",
               "EditorCaption": ""
