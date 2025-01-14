@@ -1,0 +1,5 @@
+C:\Users\Leonardo\Music\Csharp\Desafio014\Desafio014\obj\Debug\net8.0\Desafio014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Music\Csharp\Desafio014\Desafio014\obj\Debug\net8.0\Desafio014.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Music\Csharp\Desafio014\Desafio014\obj\Debug\net8.0\Desafio014.AssemblyInfo.cs
+C:\Users\Leonardo\Music\Csharp\Desafio014\Desafio014\obj\Debug\net8.0\Desafio014.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\Csharp\Desafio014\Desafio014\obj\Debug\net8.0\Desafio014.sourcelink.json

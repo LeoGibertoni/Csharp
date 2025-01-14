@@ -1,24 +1,15 @@
-﻿namespace Ex004
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            musica musica1 = new musica();
-            musica1.nome = "Roxane";
-            musica1.artista = "The Police";
-            musica1.duracao = 273;
-            musica1.disponivel = true;
+﻿Album albumDoQueen = new Album();
+albumDoQueen.Nome = "A night at the opera";
 
-            musica musica2 = new musica();
-            musica2.nome = "Vertigo";
-            musica2.artista = "U2";
-            musica2.duracao = 368;
-            musica2.disponivel = false;
+musica musica1 = new musica();
+musica1.Nome = "Love of my life";
+musica1.Duracao = 213;
 
-            musica1.ExibirFichaTecnica();
-            Console.WriteLine();
-            musica2.ExibirFichaTecnica();
-        }
-    }
-}
+musica musica2 = new musica();
+musica2.Nome = "Bohemian Rhapsody";
+musica2.Duracao = 354;
+
+albumDoQueen.AdicionarMusica(musica1);
+albumDoQueen.AdicionarMusica(musica2);
+
+albumDoQueen.ExibirMusicasDoAlbum();
