@@ -1,0 +1,14 @@
+C:\Users\Leonardo\Music\c#\Desafio004\Desafio004\bin\Debug\net8.0\Desafio004.exe
+C:\Users\Leonardo\Music\c#\Desafio004\Desafio004\bin\Debug\net8.0\Desafio004.deps.json
+C:\Users\Leonardo\Music\c#\Desafio004\Desafio004\bin\Debug\net8.0\Desafio004.runtimeconfig.json
+C:\Users\Leonardo\Music\c#\Desafio004\Desafio004\bin\Debug\net8.0\Desafio004.dll
+C:\Users\Leonardo\Music\c#\Desafio004\Desafio004\bin\Debug\net8.0\Desafio004.pdb
+C:\Users\Leonardo\Music\c#\Desafio004\Desafio004\obj\Debug\net8.0\Desafio004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Music\c#\Desafio004\Desafio004\obj\Debug\net8.0\Desafio004.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Music\c#\Desafio004\Desafio004\obj\Debug\net8.0\Desafio004.AssemblyInfo.cs
+C:\Users\Leonardo\Music\c#\Desafio004\Desafio004\obj\Debug\net8.0\Desafio004.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\c#\Desafio004\Desafio004\obj\Debug\net8.0\Desafio004.dll
+C:\Users\Leonardo\Music\c#\Desafio004\Desafio004\obj\Debug\net8.0\refint\Desafio004.dll
+C:\Users\Leonardo\Music\c#\Desafio004\Desafio004\obj\Debug\net8.0\Desafio004.pdb
+C:\Users\Leonardo\Music\c#\Desafio004\Desafio004\obj\Debug\net8.0\Desafio004.genruntimeconfig.cache
+C:\Users\Leonardo\Music\c#\Desafio004\Desafio004\obj\Debug\net8.0\ref\Desafio004.dll

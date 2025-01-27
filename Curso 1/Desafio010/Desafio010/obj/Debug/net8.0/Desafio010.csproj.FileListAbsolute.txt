@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Music\Csharp\Desafio010\Desafio010\bin\Debug\net8.0\Desafio010.exe
+C:\Users\Leonardo\Music\Csharp\Desafio010\Desafio010\bin\Debug\net8.0\Desafio010.deps.json
+C:\Users\Leonardo\Music\Csharp\Desafio010\Desafio010\bin\Debug\net8.0\Desafio010.runtimeconfig.json
+C:\Users\Leonardo\Music\Csharp\Desafio010\Desafio010\bin\Debug\net8.0\Desafio010.dll
+C:\Users\Leonardo\Music\Csharp\Desafio010\Desafio010\bin\Debug\net8.0\Desafio010.pdb
+C:\Users\Leonardo\Music\Csharp\Desafio010\Desafio010\obj\Debug\net8.0\Desafio010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Music\Csharp\Desafio010\Desafio010\obj\Debug\net8.0\Desafio010.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Music\Csharp\Desafio010\Desafio010\obj\Debug\net8.0\Desafio010.AssemblyInfo.cs
+C:\Users\Leonardo\Music\Csharp\Desafio010\Desafio010\obj\Debug\net8.0\Desafio010.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\Csharp\Desafio010\Desafio010\obj\Debug\net8.0\Desafio010.sourcelink.json
+C:\Users\Leonardo\Music\Csharp\Desafio010\Desafio010\obj\Debug\net8.0\Desafio010.dll
+C:\Users\Leonardo\Music\Csharp\Desafio010\Desafio010\obj\Debug\net8.0\refint\Desafio010.dll
+C:\Users\Leonardo\Music\Csharp\Desafio010\Desafio010\obj\Debug\net8.0\Desafio010.pdb
+C:\Users\Leonardo\Music\Csharp\Desafio010\Desafio010\obj\Debug\net8.0\Desafio010.genruntimeconfig.cache
+C:\Users\Leonardo\Music\Csharp\Desafio010\Desafio010\obj\Debug\net8.0\ref\Desafio010.dll
