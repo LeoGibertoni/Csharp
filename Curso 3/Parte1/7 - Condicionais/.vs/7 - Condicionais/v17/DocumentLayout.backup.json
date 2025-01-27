@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leonardo\\Music\\Csharp\\Curso 3\\Parte1\\7 - Condicionais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDE336A-4D96-4D7B-9FAA-0F3BE3670D20}|7 - Condicionais\\7 - Condicionais.csproj|c:\\users\\leonardo\\music\\csharp\\curso 3\\parte1\\7 - condicionais\\7 - condicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFDE336A-4D96-4D7B-9FAA-0F3BE3670D20}|7 - Condicionais\\7 - Condicionais.csproj|solutionrelative:7 - condicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Curso 3\\Parte1\\7 - Condicionais\\7 - Condicionais\\Program.cs",
+              "RelativeDocumentMoniker": "7 - Condicionais\\Program.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Curso 3\\Parte1\\7 - Condicionais\\7 - Condicionais\\Program.cs",
+              "RelativeToolTip": "7 - Condicionais\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:24:08.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

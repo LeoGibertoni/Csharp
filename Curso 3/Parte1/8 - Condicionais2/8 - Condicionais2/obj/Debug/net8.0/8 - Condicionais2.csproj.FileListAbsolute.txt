@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\8 - Condicionais2\8 - Condicionais2\obj\Debug\net8.0\8 - Condicionais2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\8 - Condicionais2\8 - Condicionais2\obj\Debug\net8.0\8 - Condicionais2.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\8 - Condicionais2\8 - Condicionais2\obj\Debug\net8.0\8 - Condicionais2.AssemblyInfo.cs
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\8 - Condicionais2\8 - Condicionais2\obj\Debug\net8.0\8 - Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\8 - Condicionais2\8 - Condicionais2\obj\Debug\net8.0\8 - Condicionais2.sourcelink.json
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\8 - Condicionais2\8 - Condicionais2\bin\Debug\net8.0\8 - Condicionais2.exe
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\8 - Condicionais2\8 - Condicionais2\bin\Debug\net8.0\8 - Condicionais2.deps.json
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\8 - Condicionais2\8 - Condicionais2\bin\Debug\net8.0\8 - Condicionais2.runtimeconfig.json
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\8 - Condicionais2\8 - Condicionais2\bin\Debug\net8.0\8 - Condicionais2.dll
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\8 - Condicionais2\8 - Condicionais2\bin\Debug\net8.0\8 - Condicionais2.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\8 - Condicionais2\8 - Condicionais2\obj\Debug\net8.0\8 - Condicionais2.dll
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\8 - Condicionais2\8 - Condicionais2\obj\Debug\net8.0\refint\8 - Condicionais2.dll
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\8 - Condicionais2\8 - Condicionais2\obj\Debug\net8.0\8 - Condicionais2.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\8 - Condicionais2\8 - Condicionais2\obj\Debug\net8.0\8 - Condicionais2.genruntimeconfig.cache
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\8 - Condicionais2\8 - Condicionais2\obj\Debug\net8.0\ref\8 - Condicionais2.dll

@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\2 - Criando Variaveis\2 - Criando Variaveis\bin\Debug\net8.0\2 - Criando Variaveis.exe
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\2 - Criando Variaveis\2 - Criando Variaveis\bin\Debug\net8.0\2 - Criando Variaveis.deps.json
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\2 - Criando Variaveis\2 - Criando Variaveis\bin\Debug\net8.0\2 - Criando Variaveis.runtimeconfig.json
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\2 - Criando Variaveis\2 - Criando Variaveis\bin\Debug\net8.0\2 - Criando Variaveis.dll
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\2 - Criando Variaveis\2 - Criando Variaveis\bin\Debug\net8.0\2 - Criando Variaveis.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\2 - Criando Variaveis\2 - Criando Variaveis\obj\Debug\net8.0\2 - Criando Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\2 - Criando Variaveis\2 - Criando Variaveis\obj\Debug\net8.0\2 - Criando Variaveis.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\2 - Criando Variaveis\2 - Criando Variaveis\obj\Debug\net8.0\2 - Criando Variaveis.AssemblyInfo.cs
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\2 - Criando Variaveis\2 - Criando Variaveis\obj\Debug\net8.0\2 - Criando Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\2 - Criando Variaveis\2 - Criando Variaveis\obj\Debug\net8.0\2 - Criando Variaveis.sourcelink.json
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\2 - Criando Variaveis\2 - Criando Variaveis\obj\Debug\net8.0\2 - Criando Variaveis.dll
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\2 - Criando Variaveis\2 - Criando Variaveis\obj\Debug\net8.0\refint\2 - Criando Variaveis.dll
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\2 - Criando Variaveis\2 - Criando Variaveis\obj\Debug\net8.0\2 - Criando Variaveis.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\2 - Criando Variaveis\2 - Criando Variaveis\obj\Debug\net8.0\2 - Criando Variaveis.genruntimeconfig.cache
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\2 - Criando Variaveis\2 - Criando Variaveis\obj\Debug\net8.0\ref\2 - Criando Variaveis.dll

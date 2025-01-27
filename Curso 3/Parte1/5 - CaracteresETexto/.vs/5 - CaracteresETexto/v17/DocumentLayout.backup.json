@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leonardo\\Music\\Csharp\\Curso 3\\Parte1\\5 - CaracteresETexto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80753070-BF74-4831-8EEC-D703BA9E14C1}|5 - CaracteresETexto\\5 - CaracteresETexto.csproj|c:\\users\\leonardo\\music\\csharp\\curso 3\\parte1\\5 - caracteresetexto\\5 - caracteresetexto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80753070-BF74-4831-8EEC-D703BA9E14C1}|5 - CaracteresETexto\\5 - CaracteresETexto.csproj|solutionrelative:5 - caracteresetexto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Curso 3\\Parte1\\5 - CaracteresETexto\\5 - CaracteresETexto\\Program.cs",
+              "RelativeDocumentMoniker": "5 - CaracteresETexto\\Program.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Curso 3\\Parte1\\5 - CaracteresETexto\\5 - CaracteresETexto\\Program.cs*",
+              "RelativeToolTip": "5 - CaracteresETexto\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:16:02.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

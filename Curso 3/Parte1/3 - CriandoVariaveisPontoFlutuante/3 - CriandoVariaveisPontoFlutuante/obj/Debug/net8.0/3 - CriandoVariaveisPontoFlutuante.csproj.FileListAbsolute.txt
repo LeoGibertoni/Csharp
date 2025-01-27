@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\3 - CriandoVariaveisPontoFlutuante\3 - CriandoVariaveisPontoFlutuante\bin\Debug\net8.0\3 - CriandoVariaveisPontoFlutuante.exe
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\3 - CriandoVariaveisPontoFlutuante\3 - CriandoVariaveisPontoFlutuante\bin\Debug\net8.0\3 - CriandoVariaveisPontoFlutuante.deps.json
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\3 - CriandoVariaveisPontoFlutuante\3 - CriandoVariaveisPontoFlutuante\bin\Debug\net8.0\3 - CriandoVariaveisPontoFlutuante.runtimeconfig.json
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\3 - CriandoVariaveisPontoFlutuante\3 - CriandoVariaveisPontoFlutuante\bin\Debug\net8.0\3 - CriandoVariaveisPontoFlutuante.dll
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\3 - CriandoVariaveisPontoFlutuante\3 - CriandoVariaveisPontoFlutuante\bin\Debug\net8.0\3 - CriandoVariaveisPontoFlutuante.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\3 - CriandoVariaveisPontoFlutuante\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net8.0\3 - CriandoVariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\3 - CriandoVariaveisPontoFlutuante\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net8.0\3 - CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\3 - CriandoVariaveisPontoFlutuante\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net8.0\3 - CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\3 - CriandoVariaveisPontoFlutuante\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net8.0\3 - CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\3 - CriandoVariaveisPontoFlutuante\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net8.0\3 - CriandoVariaveisPontoFlutuante.sourcelink.json
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\3 - CriandoVariaveisPontoFlutuante\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net8.0\3 - CriandoVariaveisPontoFlutuante.dll
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\3 - CriandoVariaveisPontoFlutuante\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net8.0\refint\3 - CriandoVariaveisPontoFlutuante.dll
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\3 - CriandoVariaveisPontoFlutuante\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net8.0\3 - CriandoVariaveisPontoFlutuante.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\3 - CriandoVariaveisPontoFlutuante\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net8.0\3 - CriandoVariaveisPontoFlutuante.genruntimeconfig.cache
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\3 - CriandoVariaveisPontoFlutuante\3 - CriandoVariaveisPontoFlutuante\obj\Debug\net8.0\ref\3 - CriandoVariaveisPontoFlutuante.dll

@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Music\Csharp\Curso 2\MyFisrtProject\MyFisrtProject\bin\Debug\net8.0\MyFisrtProject.exe
+C:\Users\Leonardo\Music\Csharp\Curso 2\MyFisrtProject\MyFisrtProject\bin\Debug\net8.0\MyFisrtProject.deps.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\MyFisrtProject\MyFisrtProject\bin\Debug\net8.0\MyFisrtProject.runtimeconfig.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\MyFisrtProject\MyFisrtProject\bin\Debug\net8.0\MyFisrtProject.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\MyFisrtProject\MyFisrtProject\bin\Debug\net8.0\MyFisrtProject.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\MyFisrtProject\MyFisrtProject\obj\Debug\net8.0\MyFisrtProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Music\Csharp\Curso 2\MyFisrtProject\MyFisrtProject\obj\Debug\net8.0\MyFisrtProject.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\MyFisrtProject\MyFisrtProject\obj\Debug\net8.0\MyFisrtProject.AssemblyInfo.cs
+C:\Users\Leonardo\Music\Csharp\Curso 2\MyFisrtProject\MyFisrtProject\obj\Debug\net8.0\MyFisrtProject.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\MyFisrtProject\MyFisrtProject\obj\Debug\net8.0\MyFisrtProject.sourcelink.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\MyFisrtProject\MyFisrtProject\obj\Debug\net8.0\MyFisrtProject.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\MyFisrtProject\MyFisrtProject\obj\Debug\net8.0\refint\MyFisrtProject.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\MyFisrtProject\MyFisrtProject\obj\Debug\net8.0\MyFisrtProject.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\MyFisrtProject\MyFisrtProject\obj\Debug\net8.0\MyFisrtProject.genruntimeconfig.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\MyFisrtProject\MyFisrtProject\obj\Debug\net8.0\ref\MyFisrtProject.dll

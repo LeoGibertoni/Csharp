@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Music\Csharp\Curso 2\Verbatim String literal\Verbatim String literal\bin\Debug\net8.0\Verbatim String literal.exe
+C:\Users\Leonardo\Music\Csharp\Curso 2\Verbatim String literal\Verbatim String literal\bin\Debug\net8.0\Verbatim String literal.deps.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\Verbatim String literal\Verbatim String literal\bin\Debug\net8.0\Verbatim String literal.runtimeconfig.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\Verbatim String literal\Verbatim String literal\bin\Debug\net8.0\Verbatim String literal.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\Verbatim String literal\Verbatim String literal\bin\Debug\net8.0\Verbatim String literal.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\Verbatim String literal\Verbatim String literal\obj\Debug\net8.0\Verbatim String literal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Music\Csharp\Curso 2\Verbatim String literal\Verbatim String literal\obj\Debug\net8.0\Verbatim String literal.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\Verbatim String literal\Verbatim String literal\obj\Debug\net8.0\Verbatim String literal.AssemblyInfo.cs
+C:\Users\Leonardo\Music\Csharp\Curso 2\Verbatim String literal\Verbatim String literal\obj\Debug\net8.0\Verbatim String literal.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\Verbatim String literal\Verbatim String literal\obj\Debug\net8.0\Verbatim String literal.sourcelink.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\Verbatim String literal\Verbatim String literal\obj\Debug\net8.0\Verbatim String literal.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\Verbatim String literal\Verbatim String literal\obj\Debug\net8.0\refint\Verbatim String literal.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\Verbatim String literal\Verbatim String literal\obj\Debug\net8.0\Verbatim String literal.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\Verbatim String literal\Verbatim String literal\obj\Debug\net8.0\Verbatim String literal.genruntimeconfig.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\Verbatim String literal\Verbatim String literal\obj\Debug\net8.0\ref\Verbatim String literal.dll

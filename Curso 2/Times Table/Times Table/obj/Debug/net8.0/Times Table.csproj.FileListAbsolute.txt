@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Music\Csharp\Curso 2\Times Table\Times Table\bin\Debug\net8.0\Times Table.exe
+C:\Users\Leonardo\Music\Csharp\Curso 2\Times Table\Times Table\bin\Debug\net8.0\Times Table.deps.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\Times Table\Times Table\bin\Debug\net8.0\Times Table.runtimeconfig.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\Times Table\Times Table\bin\Debug\net8.0\Times Table.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\Times Table\Times Table\bin\Debug\net8.0\Times Table.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\Times Table\Times Table\obj\Debug\net8.0\Times Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Music\Csharp\Curso 2\Times Table\Times Table\obj\Debug\net8.0\Times Table.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\Times Table\Times Table\obj\Debug\net8.0\Times Table.AssemblyInfo.cs
+C:\Users\Leonardo\Music\Csharp\Curso 2\Times Table\Times Table\obj\Debug\net8.0\Times Table.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\Times Table\Times Table\obj\Debug\net8.0\Times Table.sourcelink.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\Times Table\Times Table\obj\Debug\net8.0\Times Table.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\Times Table\Times Table\obj\Debug\net8.0\refint\Times Table.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\Times Table\Times Table\obj\Debug\net8.0\Times Table.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\Times Table\Times Table\obj\Debug\net8.0\Times Table.genruntimeconfig.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\Times Table\Times Table\obj\Debug\net8.0\ref\Times Table.dll

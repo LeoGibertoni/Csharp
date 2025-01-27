@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\1 - PrimeiroProjeto\1 - PrimeiroProjeto\bin\Debug\net8.0\1 - PrimeiroProjeto.exe
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\1 - PrimeiroProjeto\1 - PrimeiroProjeto\bin\Debug\net8.0\1 - PrimeiroProjeto.deps.json
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\1 - PrimeiroProjeto\1 - PrimeiroProjeto\bin\Debug\net8.0\1 - PrimeiroProjeto.runtimeconfig.json
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\1 - PrimeiroProjeto\1 - PrimeiroProjeto\bin\Debug\net8.0\1 - PrimeiroProjeto.dll
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\1 - PrimeiroProjeto\1 - PrimeiroProjeto\bin\Debug\net8.0\1 - PrimeiroProjeto.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\1 - PrimeiroProjeto\1 - PrimeiroProjeto\obj\Debug\net8.0\1 - PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\1 - PrimeiroProjeto\1 - PrimeiroProjeto\obj\Debug\net8.0\1 - PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\1 - PrimeiroProjeto\1 - PrimeiroProjeto\obj\Debug\net8.0\1 - PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\1 - PrimeiroProjeto\1 - PrimeiroProjeto\obj\Debug\net8.0\1 - PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\1 - PrimeiroProjeto\1 - PrimeiroProjeto\obj\Debug\net8.0\1 - PrimeiroProjeto.sourcelink.json
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\1 - PrimeiroProjeto\1 - PrimeiroProjeto\obj\Debug\net8.0\1 - PrimeiroProjeto.dll
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\1 - PrimeiroProjeto\1 - PrimeiroProjeto\obj\Debug\net8.0\refint\1 - PrimeiroProjeto.dll
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\1 - PrimeiroProjeto\1 - PrimeiroProjeto\obj\Debug\net8.0\1 - PrimeiroProjeto.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\1 - PrimeiroProjeto\1 - PrimeiroProjeto\obj\Debug\net8.0\1 - PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\Leonardo\Music\Csharp\Curso 3\Parte1\1 - PrimeiroProjeto\1 - PrimeiroProjeto\obj\Debug\net8.0\ref\1 - PrimeiroProjeto.dll

@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Music\Csharp\Curso 2\Boolean data type\Boolean data type\bin\Debug\net8.0\Boolean data type.exe
+C:\Users\Leonardo\Music\Csharp\Curso 2\Boolean data type\Boolean data type\bin\Debug\net8.0\Boolean data type.deps.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\Boolean data type\Boolean data type\bin\Debug\net8.0\Boolean data type.runtimeconfig.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\Boolean data type\Boolean data type\bin\Debug\net8.0\Boolean data type.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\Boolean data type\Boolean data type\bin\Debug\net8.0\Boolean data type.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\Boolean data type\Boolean data type\obj\Debug\net8.0\Boolean data type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Music\Csharp\Curso 2\Boolean data type\Boolean data type\obj\Debug\net8.0\Boolean data type.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\Boolean data type\Boolean data type\obj\Debug\net8.0\Boolean data type.AssemblyInfo.cs
+C:\Users\Leonardo\Music\Csharp\Curso 2\Boolean data type\Boolean data type\obj\Debug\net8.0\Boolean data type.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\Boolean data type\Boolean data type\obj\Debug\net8.0\Boolean data type.sourcelink.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\Boolean data type\Boolean data type\obj\Debug\net8.0\Boolean data type.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\Boolean data type\Boolean data type\obj\Debug\net8.0\refint\Boolean data type.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\Boolean data type\Boolean data type\obj\Debug\net8.0\Boolean data type.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\Boolean data type\Boolean data type\obj\Debug\net8.0\Boolean data type.genruntimeconfig.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\Boolean data type\Boolean data type\obj\Debug\net8.0\ref\Boolean data type.dll

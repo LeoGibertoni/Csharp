@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Music\Csharp\Curso 2\Numeric Formatting\Numeric Formatting\bin\Debug\net8.0\Numeric Formatting.exe
+C:\Users\Leonardo\Music\Csharp\Curso 2\Numeric Formatting\Numeric Formatting\bin\Debug\net8.0\Numeric Formatting.deps.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\Numeric Formatting\Numeric Formatting\bin\Debug\net8.0\Numeric Formatting.runtimeconfig.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\Numeric Formatting\Numeric Formatting\bin\Debug\net8.0\Numeric Formatting.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\Numeric Formatting\Numeric Formatting\bin\Debug\net8.0\Numeric Formatting.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\Numeric Formatting\Numeric Formatting\obj\Debug\net8.0\Numeric Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Music\Csharp\Curso 2\Numeric Formatting\Numeric Formatting\obj\Debug\net8.0\Numeric Formatting.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\Numeric Formatting\Numeric Formatting\obj\Debug\net8.0\Numeric Formatting.AssemblyInfo.cs
+C:\Users\Leonardo\Music\Csharp\Curso 2\Numeric Formatting\Numeric Formatting\obj\Debug\net8.0\Numeric Formatting.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\Numeric Formatting\Numeric Formatting\obj\Debug\net8.0\Numeric Formatting.sourcelink.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\Numeric Formatting\Numeric Formatting\obj\Debug\net8.0\Numeric Formatting.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\Numeric Formatting\Numeric Formatting\obj\Debug\net8.0\refint\Numeric Formatting.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\Numeric Formatting\Numeric Formatting\obj\Debug\net8.0\Numeric Formatting.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\Numeric Formatting\Numeric Formatting\obj\Debug\net8.0\Numeric Formatting.genruntimeconfig.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\Numeric Formatting\Numeric Formatting\obj\Debug\net8.0\ref\Numeric Formatting.dll

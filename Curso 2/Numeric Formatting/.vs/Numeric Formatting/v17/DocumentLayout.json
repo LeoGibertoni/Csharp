@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leonardo\\Music\\Csharp\\Curso 2\\Numeric Formatting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24E43E22-FF52-447E-97BC-A08AA889578E}|Numeric Formatting\\Numeric Formatting.csproj|c:\\users\\leonardo\\music\\csharp\\curso 2\\numeric formatting\\numeric formatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E43E22-FF52-447E-97BC-A08AA889578E}|Numeric Formatting\\Numeric Formatting.csproj|solutionrelative:numeric formatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Curso 2\\Numeric Formatting\\Numeric Formatting\\Program.cs",
+              "RelativeDocumentMoniker": "Numeric Formatting\\Program.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Curso 2\\Numeric Formatting\\Numeric Formatting\\Program.cs",
+              "RelativeToolTip": "Numeric Formatting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:53:06.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

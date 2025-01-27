@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Music\Csharp\Curso 2\TryParse function\TryParse function\bin\Debug\net8.0\TryParse function.exe
+C:\Users\Leonardo\Music\Csharp\Curso 2\TryParse function\TryParse function\bin\Debug\net8.0\TryParse function.deps.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\TryParse function\TryParse function\bin\Debug\net8.0\TryParse function.runtimeconfig.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\TryParse function\TryParse function\bin\Debug\net8.0\TryParse function.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\TryParse function\TryParse function\bin\Debug\net8.0\TryParse function.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\TryParse function\TryParse function\obj\Debug\net8.0\TryParse function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Music\Csharp\Curso 2\TryParse function\TryParse function\obj\Debug\net8.0\TryParse function.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\TryParse function\TryParse function\obj\Debug\net8.0\TryParse function.AssemblyInfo.cs
+C:\Users\Leonardo\Music\Csharp\Curso 2\TryParse function\TryParse function\obj\Debug\net8.0\TryParse function.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\TryParse function\TryParse function\obj\Debug\net8.0\TryParse function.sourcelink.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\TryParse function\TryParse function\obj\Debug\net8.0\TryParse function.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\TryParse function\TryParse function\obj\Debug\net8.0\refint\TryParse function.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\TryParse function\TryParse function\obj\Debug\net8.0\TryParse function.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\TryParse function\TryParse function\obj\Debug\net8.0\TryParse function.genruntimeconfig.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\TryParse function\TryParse function\obj\Debug\net8.0\ref\TryParse function.dll

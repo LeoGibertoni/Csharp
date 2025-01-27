@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Music\Csharp\Curso 2\Text based data types\Text based data types\bin\Debug\net8.0\Text based data types.exe
+C:\Users\Leonardo\Music\Csharp\Curso 2\Text based data types\Text based data types\bin\Debug\net8.0\Text based data types.deps.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\Text based data types\Text based data types\bin\Debug\net8.0\Text based data types.runtimeconfig.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\Text based data types\Text based data types\bin\Debug\net8.0\Text based data types.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\Text based data types\Text based data types\bin\Debug\net8.0\Text based data types.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\Text based data types\Text based data types\obj\Debug\net8.0\Text based data types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Music\Csharp\Curso 2\Text based data types\Text based data types\obj\Debug\net8.0\Text based data types.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\Text based data types\Text based data types\obj\Debug\net8.0\Text based data types.AssemblyInfo.cs
+C:\Users\Leonardo\Music\Csharp\Curso 2\Text based data types\Text based data types\obj\Debug\net8.0\Text based data types.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\Text based data types\Text based data types\obj\Debug\net8.0\Text based data types.sourcelink.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\Text based data types\Text based data types\obj\Debug\net8.0\Text based data types.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\Text based data types\Text based data types\obj\Debug\net8.0\refint\Text based data types.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\Text based data types\Text based data types\obj\Debug\net8.0\Text based data types.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\Text based data types\Text based data types\obj\Debug\net8.0\Text based data types.genruntimeconfig.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\Text based data types\Text based data types\obj\Debug\net8.0\ref\Text based data types.dll

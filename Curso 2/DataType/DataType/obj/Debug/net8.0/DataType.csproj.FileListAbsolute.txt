@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Music\Csharp\Curso 2\DataType\DataType\bin\Debug\net8.0\DataType.exe
+C:\Users\Leonardo\Music\Csharp\Curso 2\DataType\DataType\bin\Debug\net8.0\DataType.deps.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\DataType\DataType\bin\Debug\net8.0\DataType.runtimeconfig.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\DataType\DataType\bin\Debug\net8.0\DataType.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\DataType\DataType\bin\Debug\net8.0\DataType.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\DataType\DataType\obj\Debug\net8.0\DataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Music\Csharp\Curso 2\DataType\DataType\obj\Debug\net8.0\DataType.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\DataType\DataType\obj\Debug\net8.0\DataType.AssemblyInfo.cs
+C:\Users\Leonardo\Music\Csharp\Curso 2\DataType\DataType\obj\Debug\net8.0\DataType.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\DataType\DataType\obj\Debug\net8.0\DataType.sourcelink.json
+C:\Users\Leonardo\Music\Csharp\Curso 2\DataType\DataType\obj\Debug\net8.0\DataType.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\DataType\DataType\obj\Debug\net8.0\refint\DataType.dll
+C:\Users\Leonardo\Music\Csharp\Curso 2\DataType\DataType\obj\Debug\net8.0\DataType.pdb
+C:\Users\Leonardo\Music\Csharp\Curso 2\DataType\DataType\obj\Debug\net8.0\DataType.genruntimeconfig.cache
+C:\Users\Leonardo\Music\Csharp\Curso 2\DataType\DataType\obj\Debug\net8.0\ref\DataType.dll
