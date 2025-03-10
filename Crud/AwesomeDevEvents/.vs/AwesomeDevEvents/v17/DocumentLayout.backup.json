@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonardo\\music\\csharp\\crud\\awesomedevevents\\awesomedevevents.api\\persistence\\deveventsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\persistence\\deveventsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonardo\\music\\csharp\\crud\\awesomedevevents\\awesomedevevents.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonardo\\music\\csharp\\crud\\awesomedevevents\\awesomedevevents.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonardo\\music\\csharp\\crud\\awesomedevevents\\awesomedevevents.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonardo\\music\\csharp\\crud\\awesomedevevents\\awesomedevevents.api\\migrations\\20250221142221_primeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\migrations\\20250221142221_primeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonardo\\music\\csharp\\crud\\awesomedevevents\\awesomedevevents.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonardo\\music\\csharp\\crud\\awesomedevevents\\awesomedevevents.api\\awesomedevevents.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\awesomedevevents.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonardo\\music\\csharp\\crud\\awesomedevevents\\awesomedevevents.api\\controllers\\deveventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\controllers\\deveventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonardo\\music\\csharp\\crud\\awesomedevevents\\awesomedevevents.api\\entities\\devevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\entities\\devevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|c:\\users\\leonardo\\music\\csharp\\crud\\awesomedevevents\\awesomedevevents.api\\entities\\deveventspeaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109C5A56-DCA7-4B6A-B0CE-E26F7EE8CF08}|AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj|solutionrelative:awesomedevevents.api\\entities\\deveventspeaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250221142221_primeiro.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\Migrations\\20250221142221_primeiro.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Migrations\\20250221142221_primeiro.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\Migrations\\20250221142221_primeiro.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Migrations\\20250221142221_primeiro.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:22:21.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\appsettings.json",
+              "RelativeToolTip": "AwesomeDevEvents.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T14:18:11.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:16:34.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\appsettings.Development.json",
+              "RelativeToolTip": "AwesomeDevEvents.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T11:49:08.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DevEventsController.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\Controllers\\DevEventsController.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Controllers\\DevEventsController.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\Controllers\\DevEventsController.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Controllers\\DevEventsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wCYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:47:42.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\Program.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\Program.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:41:03.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DevEventsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\Persistence\\DevEventsDbContext.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Persistence\\DevEventsDbContext.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\Persistence\\DevEventsDbContext.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Persistence\\DevEventsDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:37:41.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DevEventSpeaker.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\Entities\\DevEventSpeaker.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Entities\\DevEventSpeaker.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\Entities\\DevEventSpeaker.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Entities\\DevEventSpeaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:35:54.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DevEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\Entities\\DevEvent.cs",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\Entities\\DevEvent.cs",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\Entities\\DevEvent.cs",
+              "RelativeToolTip": "AwesomeDevEvents.API\\Entities\\DevEvent.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:25:28.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AwesomeDevEvents.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj",
+              "RelativeDocumentMoniker": "AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj",
+              "ToolTip": "C:\\Users\\Leonardo\\Music\\Csharp\\Crud\\AwesomeDevEvents\\AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj",
+              "RelativeToolTip": "AwesomeDevEvents.API\\AwesomeDevEvents.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T11:24:12.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

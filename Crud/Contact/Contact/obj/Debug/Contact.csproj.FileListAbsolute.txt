@@ -1,0 +1,10 @@
+C:\Users\Leonardo\Music\Csharp\Crud\Contact\Contact\bin\Debug\Contact.exe.config
+C:\Users\Leonardo\Music\Csharp\Crud\Contact\Contact\bin\Debug\Contact.exe
+C:\Users\Leonardo\Music\Csharp\Crud\Contact\Contact\bin\Debug\Contact.pdb
+C:\Users\Leonardo\Music\Csharp\Crud\Contact\Contact\obj\Debug\Contact.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Music\Csharp\Crud\Contact\Contact\obj\Debug\Contact.Form1.resources
+C:\Users\Leonardo\Music\Csharp\Crud\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+C:\Users\Leonardo\Music\Csharp\Crud\Contact\Contact\obj\Debug\Contact.csproj.GenerateResource.cache
+C:\Users\Leonardo\Music\Csharp\Crud\Contact\Contact\obj\Debug\Contact.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Music\Csharp\Crud\Contact\Contact\obj\Debug\Contact.exe
+C:\Users\Leonardo\Music\Csharp\Crud\Contact\Contact\obj\Debug\Contact.pdb
